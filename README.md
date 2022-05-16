@@ -1,1 +1,2 @@
 # Treemap
+Primeiro projeto de visualização feito em Python, usando Pandas, Matplotlib e Squarify para criar um Treemap que exibe os jogadores do PSV com mais participações diretas (gols e assistências) em gols feitos pela equipe durante a temporada 2021/2022. Para esse tipo de visualização, quanto maior o retângulo de cada atleta, maior a quantidade de participações e que também é evidenciado pelo tom da cor vermelha, sendo mais marcante quanto maior o retângulo. Para que fique mais claro: Gakpo é o mais influente em gols e assistências e Zahavi é o segundo. 
